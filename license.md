@@ -9,7 +9,7 @@ The **🔒 Mullvad VPN** is the most privacy-focused VPN service on the market, 
 
 <div align="center">
 
-[![Download Mullvad VPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-mullvad-vpn-download)
+[![Download Mullvad VPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-mullvad-vpn-download)
 
 </div>
 
@@ -213,7 +213,7 @@ One tool. Premium VPN. True anonymity. Zero cost.
 
 <div align="center">
 
-[![Download Mullvad VPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/free-mullvad-vpn-download)
+[![Download Mullvad VPN](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/free-mullvad-vpn-download)
 
 **Version 2026.99.1** — Premium VPN. No logs. Free forever.
 
